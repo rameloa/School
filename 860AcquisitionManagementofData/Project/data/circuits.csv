@@ -5,10 +5,10 @@ circuitId,circuitRef,name,location,country,lat,lng,alt,url,circuit_type
 4,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya,road circuit
 5,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,130,http://en.wikipedia.org/wiki/Istanbul_Park,race circuit
 6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,http://en.wikipedia.org/wiki/Circuit_de_Monaco,street circuit
-7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve,road/race circuit
+7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve,race circuit
 8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours,street circuit
 9,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,http://en.wikipedia.org/wiki/Silverstone_Circuit,race circuit
-10,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,http://en.wikipedia.org/wiki/Hockenheimring,road/race circuit
+10,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,http://en.wikipedia.org/wiki/Hockenheimring,race circuit
 11,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,http://en.wikipedia.org/wiki/Hungaroring,race circuit
 12,valencia,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,4,http://en.wikipedia.org/wiki/Valencia_Street_Circuit,street circuit
 13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps,street circuit
@@ -26,7 +26,7 @@ circuitId,circuitRef,name,location,country,lat,lng,alt,url,circuit_type
 25,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez,street circuit
 26,jerez,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,37,http://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez,street circuit
 27,estoril,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,130,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril,street circuit
-28,okayama,Okayama International Circuit,Okayama,Japan,34.915,134.221,266,http://en.wikipedia.org/wiki/TI_Circuit,road/race circuit
+28,okayama,Okayama International Circuit,Okayama,Japan,34.915,134.221,266,http://en.wikipedia.org/wiki/TI_Circuit,race circuit
 29,adelaide,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,58,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit,street circuit
 30,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,http://en.wikipedia.org/wiki/Kyalami,race circuit
 31,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,http://en.wikipedia.org/wiki/Donington_Park,race circuit
@@ -55,7 +55,7 @@ circuitId,circuitRef,name,location,country,lat,lng,alt,url,circuit_type
 54,lemans,Le Mans,Le Mans,France,47.95,0.224231,67,http://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit,race circuit
 55,reims,Reims-Gueux,Reims,France,49.2542,3.93083,88,http://en.wikipedia.org/wiki/Reims-Gueux,road circuit
 56,george,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,15,http://en.wikipedia.org/wiki/Prince_George_Circuit,race circuit
-57,zeltweg,Zeltweg,Styria,Austria,47.2039,14.7478,676,http://en.wikipedia.org/wiki/Zeltweg_Airfield,hybrid
+57,zeltweg,Zeltweg,Styria,Austria,47.2039,14.7478,676,http://en.wikipedia.org/wiki/Zeltweg_Airfield,street circuit
 58,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,20,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit,road circuit
 59,boavista,Circuito da Boavista,Oporto,Portugal,41.1705,-8.67325,28,http://en.wikipedia.org/wiki/Circuito_da_Boavista,street circuit
 60,riverside,Riverside International Raceway,California,USA,33.937,-117.273,470,http://en.wikipedia.org/wiki/Riverside_International_Raceway,race circuit
