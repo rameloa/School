@@ -1,0 +1,17 @@
+Feature,Importance
+Province_MB,0.1914856
+Province_BC,0.17105211
+Province_NS,0.12978649
+fico_score,0.117075294
+Province_AB,0.089455135
+Province_ON,0.08735074
+Residential Status_RENTER,0.07538744
+Residential Status_LIVE WITH FAMILY,0.06055491
+Gender_FEMALE,0.052004904
+Residential Status_HOME OWNER,0.025847366
+Gender_MALE,0.0
+Province_NB,0.0
+Province_NFLD,0.0
+Province_PEI,0.0
+Province_SK,0.0
+Residential Status_RENTING,0.0
