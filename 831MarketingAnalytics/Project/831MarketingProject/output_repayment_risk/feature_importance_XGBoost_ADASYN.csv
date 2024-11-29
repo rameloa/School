@@ -1,17 +1,4 @@
 Feature,Importance
-Residential Status_RENTING,0.15214573
-Province_MB,0.13190922
-Province_NS,0.12442492
-Province_ON,0.10275729
-Province_BC,0.10111065
-Residential Status_RENTER,0.09300899
-fico_score,0.09111515
-Residential Status_LIVE WITH FAMILY,0.07258534
-Gender_FEMALE,0.059320986
-Residential Status_HOME OWNER,0.0462148
-Province_AB,0.025406929
-Gender_MALE,0.0
-Province_NB,0.0
-Province_NFLD,0.0
-Province_PEI,0.0
-Province_SK,0.0
+fico_score,0.4640983
+Loan_to_Income_Ratio,0.2763633
+Monthly_Repayment_Burden,0.2595384

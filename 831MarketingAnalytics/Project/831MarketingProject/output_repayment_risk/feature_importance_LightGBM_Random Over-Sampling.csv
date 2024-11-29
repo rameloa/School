@@ -1,17 +1,4 @@
 Feature,Importance
-fico_score,1167
-Residential Status_LIVE WITH FAMILY,100
-Residential Status_RENTER,83
-Province_ON,67
-Gender_FEMALE,63
-Gender_MALE,44
-Province_AB,34
-Residential Status_HOME OWNER,34
-Province_BC,7
-Province_MB,0
-Province_NB,0
-Province_NFLD,0
-Province_NS,0
-Province_PEI,0
-Province_SK,0
-Residential Status_RENTING,0
+fico_score,685
+Monthly_Repayment_Burden,633
+Loan_to_Income_Ratio,518
