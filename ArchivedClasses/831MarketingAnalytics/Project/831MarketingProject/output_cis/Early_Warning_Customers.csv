@@ -1,0 +1,3 @@
+customer_id,True_Engagement_Level,Predicted_Engagement_Level,Predicted_Engagement_Probability,True_Repayment_Risk,Predicted_Repayment_Risk,Predicted_Repayment_Probability,Engagement_Score,Repayment_Risk_Score,CIS,CIS_Segment
+17048,Low Engagement,Low Engagement,0.9114722222222221,High Risk,High Risk,0.9471205828317864,1,3,2.1,Segment A
+17048,Low Engagement,Low Engagement,0.9114722222222221,High Risk,High Risk,0.9471205828317864,1,3,2.1,Segment A
